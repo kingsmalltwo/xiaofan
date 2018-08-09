@@ -34,7 +34,7 @@
       "getCurrentPages"
     ],
     "ignores": [
-      "src/utils/fanfou-sdk-node/modules/**"
+      "src/fanfou-sdk-weapp/**"
     ],
     "rules": {
       "ava/no-ignored-test-files": 0,
